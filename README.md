@@ -1,4 +1,4 @@
-# Procvičení Pyher
+# Procvičujeme Pyhry
 
 ### 1. Barvičky
 
